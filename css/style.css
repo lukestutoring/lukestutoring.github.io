@@ -38,6 +38,11 @@ nav.page-navigation a {
   border-bottom: solid;
   border-width: 2px;
 }
+
+nav.page-navigation a:hover {
+  color: #f1f1f1;
+}
+
 ul.menu li:last-child a{
     border-bottom: none;
 }
