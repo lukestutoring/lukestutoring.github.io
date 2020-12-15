@@ -19,7 +19,7 @@ nav.page-navigation {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #111; /* Black */
+  background-color: #ff99cc; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 10px;
   font-family: helvetica;
@@ -33,14 +33,14 @@ nav.page-navigation a {
   padding: 15px 8px 15px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #ffffff;
   display: block;
   border-bottom: solid;
   border-width: 2px;
 }
 
 nav.page-navigation a:hover {
-  color: #f1f1f1;
+  color: #99ffff;
 }
 
 /* When you mouse over the navigation links, change their color */
